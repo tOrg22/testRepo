@@ -1,0 +1,2 @@
+language: bash
+script: git clone git@github.com:mustafa-travisci/prvTestBuilds.git
